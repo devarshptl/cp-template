@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - --std=c++20
+    - -Wall
+  Compiler: clang++
+Diagnostics:
+  UnusedIncludes: Strict
+  MissingIncludes: Strict
